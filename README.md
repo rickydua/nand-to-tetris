@@ -1,2 +1,2 @@
 # nand-to-tetris
-Exercises - Nand to Tetirs
+Exercises - Nand to Tetris
